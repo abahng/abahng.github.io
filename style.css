@@ -31,3 +31,9 @@ body {
   color: orange;
   font-size: 30 px;
 }
+p.small {
+  margin-top: auto;
+}
+p.small {
+  line-height: 30%;
+}
